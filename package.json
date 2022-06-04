@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "agrilinks",
+  "version": "1.0.0",
+  "description": "It is an internship project",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "Nikhil Patil",
+  "license": "ISC"
+}
